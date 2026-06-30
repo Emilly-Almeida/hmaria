@@ -1,1 +1,0 @@
-# Hmaria Clean Architecture
